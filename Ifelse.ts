@@ -36,7 +36,7 @@ if (number == 120) {
 
 let months : string = 'RAMADAN'
 if 
-(months === months){
+(months === RAMADAN){
 
 
     console.log ('RAMADAN MUBARAK')
